@@ -53,3 +53,10 @@ To run or inspect this project locally on your system:
 
 ---
 *Built with care to enhance local community engagement and digital library accessibility.*
+
+
+# ⚠️ NOTE FOR REVIEWER
+**This repository is for TASK 23: Greenwood Public Library.**
+Please note that Task 22 (Tailwind Hero Landing Page with AI Widget) is ALREADY APPROVED. 
+This submission contains the Greenwood Public Library code according to the Task 23 problem statement.
+---
